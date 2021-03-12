@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  NewsWorld
+
+  Created by Nikolaj Nielsen on 10/03/2021.
+  
+*/
+
+// MARK: - News list
+"news_list_title" = "News";
+"news_list_search_placeholder" = "Search";
+
+// MARK: - News cell
+"news_cell_publish_date" = "Published on: %@";
+
+// MARK: - News page
+"news_page_author" = "By %@";
+"news_page_author_default" = "Unknown";
+"news_page_link" = "Read the whole story";
+"news_page_author_source_seperator" = "-";
