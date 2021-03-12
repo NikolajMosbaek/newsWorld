@@ -1,0 +1,18 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+        {
+            "source": {
+                "id": "ctg",
+                "name": "Cottington"
+            },
+            "author": "Ford Prefect",
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "description": "Travel the Galaxy without dying",
+            "url": "https://www.google.com/search?client=safari&rls=en&q=hitchhikers+guide+to+the+galaxy&ie=UTF-8&oe=UTF-8",
+            "urlToImage": "https://m.media-amazon.com/images/M/MV5BZmU5MGU4MjctNjA2OC00N2FhLWFhNWQtMzQyMGI2ZmQ0Y2YyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+            "content": "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons"
+        }
+    ]
+}
