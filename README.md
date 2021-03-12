@@ -14,3 +14,5 @@ Another dependency I chose to use is SDWebImage; simply because I think it is a 
 - [x] Implement unit tests for Articles parsing
 - [ ] Add unit tests for viewModel
 - [ ] Replace UIKit with SwiftUI
+- [ ] Implement Repository Pattern
+- - [ ] Add caching 
